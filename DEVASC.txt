@@ -1,0 +1,8 @@
+I am on my way to passing the
+<<<<<<< HEAD
+=======
+NetAcad DEVASC exam
+>>>>>>> test
+I am beginning to understand
+Git!
+This text was added origanally while while in the feature branch
